@@ -5,7 +5,7 @@ Okrem výpočtu program dokáže kružnice aj vykresliť do grafu pomocou knižn
 
 ⸻
 
-📌 Funkcionalita
+Funkcionalita
 
 Program dokáže:
 	•	vypočítať Euklidovskú vzdialenosť medzi stredmi kružníc
@@ -61,6 +61,11 @@ Funkcia vykreslí kružnice pomocou knižnice matplotlib.
 
 tests/test_circle_stats.py
 Obsahuje testy funkcií pomocou knižnice pytest.
+
+
+Autor :
+Jakub Michalík
+
 
 Testy overujú správnosť funkcií:
 	•	has_intersection
