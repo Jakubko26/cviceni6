@@ -61,12 +61,9 @@ Funkcia vykreslí kružnice pomocou knižnice matplotlib.
 
 tests/test_circle_stats.py
 Obsahuje testy funkcií pomocou knižnice pytest.
-
-
-Autor :
-Jakub Michalík
-
-
 Testy overujú správnosť funkcií:
 	•	has_intersection
 	•	radius_sum
+
+Autor :
+Jakub Michalík
